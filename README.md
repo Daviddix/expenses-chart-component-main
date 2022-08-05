@@ -44,9 +44,3 @@ I started with the HTML and then used CSS to style it, i used Vanilla javaScript
 
 ## Author
 - Twitter - [@daviddixx](https://www.twitter.com/dixx_david)
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
